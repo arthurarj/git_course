@@ -1,5 +1,5 @@
-# Githu
+# Github
 
-# Arquivo ReadMe para GitHub Udemy
+# Arquivo ReadMe GitHub Udemy
 
-Este é um arquivo de teste para saber como o Git funciona!!
+Este é um arquivo de teste.
