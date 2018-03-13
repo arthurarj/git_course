@@ -1,5 +1,3 @@
-# Github
+# ReadMe
 
-# Arquivo ReadMe GitHub Udemy
-
-Este é um arquivo de teste.
+Este é um arquivo ReadMe para um repositório de teste.
